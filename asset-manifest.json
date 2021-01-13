@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/inventoryapp/static/css/main.8940c17f.chunk.css",
-    "main.js": "/inventoryapp/static/js/main.6a18ed6a.chunk.js",
-    "main.js.map": "/inventoryapp/static/js/main.6a18ed6a.chunk.js.map",
-    "runtime-main.js": "/inventoryapp/static/js/runtime-main.77c7365d.js",
-    "runtime-main.js.map": "/inventoryapp/static/js/runtime-main.77c7365d.js.map",
+    "main.js": "/inventoryapp/static/js/main.60641a12.chunk.js",
+    "main.js.map": "/inventoryapp/static/js/main.60641a12.chunk.js.map",
+    "runtime-main.js": "/inventoryapp/static/js/runtime-main.458e2c84.js",
+    "runtime-main.js.map": "/inventoryapp/static/js/runtime-main.458e2c84.js.map",
     "static/css/2.04b39313.chunk.css": "/inventoryapp/static/css/2.04b39313.chunk.css",
-    "static/js/2.5c2865da.chunk.js": "/inventoryapp/static/js/2.5c2865da.chunk.js",
-    "static/js/2.5c2865da.chunk.js.map": "/inventoryapp/static/js/2.5c2865da.chunk.js.map",
-    "static/js/3.9cfd0654.chunk.js": "/inventoryapp/static/js/3.9cfd0654.chunk.js",
-    "static/js/3.9cfd0654.chunk.js.map": "/inventoryapp/static/js/3.9cfd0654.chunk.js.map",
+    "static/js/2.cdaaeb82.chunk.js": "/inventoryapp/static/js/2.cdaaeb82.chunk.js",
+    "static/js/2.cdaaeb82.chunk.js.map": "/inventoryapp/static/js/2.cdaaeb82.chunk.js.map",
+    "static/js/3.feefafec.chunk.js": "/inventoryapp/static/js/3.feefafec.chunk.js",
+    "static/js/3.feefafec.chunk.js.map": "/inventoryapp/static/js/3.feefafec.chunk.js.map",
     "index.html": "/inventoryapp/index.html",
     "static/css/2.04b39313.chunk.css.map": "/inventoryapp/static/css/2.04b39313.chunk.css.map",
     "static/css/main.8940c17f.chunk.css.map": "/inventoryapp/static/css/main.8940c17f.chunk.css.map",
-    "static/js/2.5c2865da.chunk.js.LICENSE.txt": "/inventoryapp/static/js/2.5c2865da.chunk.js.LICENSE.txt",
+    "static/js/2.cdaaeb82.chunk.js.LICENSE.txt": "/inventoryapp/static/js/2.cdaaeb82.chunk.js.LICENSE.txt",
     "static/media/App.css": "/inventoryapp/static/media/background_header.6fe295b4.jpg",
     "static/media/font-awesome.css": "/inventoryapp/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/index.css": "/inventoryapp/static/media/open-sans-latin-800italic.b5bc2661.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.77c7365d.js",
+    "static/js/runtime-main.458e2c84.js",
     "static/css/2.04b39313.chunk.css",
-    "static/js/2.5c2865da.chunk.js",
+    "static/js/2.cdaaeb82.chunk.js",
     "static/css/main.8940c17f.chunk.css",
-    "static/js/main.6a18ed6a.chunk.js"
+    "static/js/main.60641a12.chunk.js"
   ]
 }
