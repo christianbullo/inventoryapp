@@ -30,7 +30,7 @@ class Main extends Component {
         <Header />
         <br /> 
         <Switch>
-          <Route exact path="/" component={ StatsComponent } />
+          <Route exact path="/stats" component={ StatsComponent } />
           <Route exact path="/requests" render={() => 
             <RequestTable requests={this.props.requests} 
                 addRequest={this.props.addRequest} 

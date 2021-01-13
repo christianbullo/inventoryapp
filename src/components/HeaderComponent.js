@@ -22,7 +22,7 @@ class Header extends Component {
                 </Jumbotron>
                 <Navbar dark sticky="top" expand="md">
                     <div className="container justify-content-center">
-                        <NavbarBrand className="mr-auto" href="/">
+                        <NavbarBrand className="mr-auto" href="/stats">
                             <i className="fa fa-bar-chart fa-lg">{' '}Stats</i> 
                         </NavbarBrand>
                         <NavbarToggler />   
