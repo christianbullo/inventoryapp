@@ -1,4 +1,4 @@
-# Lab Inventory App
+# Lab Inventory Web App
 
 This project is a practical online solution to handle the inventory of a science lab.
 
