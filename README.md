@@ -15,7 +15,7 @@ Keep track of the orders and placing the items.
 
 ### `Solution`
 
-Organized all lab supply ordes and informations in a single dashboard. 
+Organized all lab supply orders and informations in a single dashboard. 
 
 ### `Outcome`
 
