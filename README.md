@@ -20,7 +20,7 @@ Organized all lab supply ordes and informations in a single dashboard.
 ### `Outcome`
 
 Improved overview of the expenditures and the availability of the items. 
-Savings of time looking for in stock.  
+Time saving to search articles in stock.  
 
 
 ## Build status 
